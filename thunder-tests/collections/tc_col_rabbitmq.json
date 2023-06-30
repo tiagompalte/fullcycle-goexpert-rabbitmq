@@ -1,0 +1,29 @@
+{
+    "_id": "4068ee2a-8bee-49a6-b492-3d89a456e70c",
+    "colName": "RabbitMQ",
+    "created": "2023-06-30T01:13:19.252Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "7b03a9ad-f854-44a1-b234-a6f98a09881d",
+            "colId": "4068ee2a-8bee-49a6-b492-3d89a456e70c",
+            "containerId": "",
+            "name": "Request",
+            "url": "http://localhost:8080?message=test",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-06-30T01:13:19.255Z",
+            "modified": "2023-06-30T01:13:39.829Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "message",
+                    "value": "test",
+                    "isPath": false
+                }
+            ],
+            "tests": []
+        }
+    ]
+}
